@@ -1,0 +1,202 @@
+{
+  "2024": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Taylor Swift - Midnights",
+      "category": "Pop"
+    },
+    {
+      "award": "Grammy Record of the Year",
+      "winner": "Miley Cyrus - Flowers",
+      "category": "Pop"
+    },
+    {
+      "award": "Billboard Music Award - Top Artist",
+      "winner": "Morgan Wallen",
+      "category": "Country"
+    },
+    {
+      "award": "American Music Award - Best R&B Album",
+      "winner": "SZA - SOS",
+      "category": "R&B"
+    },
+    {
+      "award": "iHeartRadio Music Award - Song of the Year",
+      "winner": "Olivia Rodrigo - Vampire",
+      "category": "Pop"
+    }
+  ],
+
+  "2023": [
+    {
+      "award": "Grammy Best New Artist",
+      "winner": "Samara Joy",
+      "category": "Jazz"
+    },
+    {
+      "award": "MTV Video Music Award - Best Collaboration",
+      "winner": "Shakira ft. Bizarrap",
+      "category": "Latin"
+    },
+    {
+      "award": "Billboard Music Award - Top Male Artist",
+      "winner": "Harry Styles",
+      "category": "Pop"
+    },
+    {
+      "award": "American Music Award - Favorite Pop Song",
+      "winner": "The Weeknd - Save Your Tears",
+      "category": "Pop"
+    },
+    {
+      "award": "MTV EMAs - Best Hip-Hop",
+      "winner": "Nicki Minaj",
+      "category": "Hip-Hop"
+    }
+  ],
+"2022": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Jon Batiste – We Are",
+      "category": "Soul"
+    },
+    {
+      "award": "Grammy Record of the Year",
+      "winner": "Silk Sonic – Leave The Door Open",
+      "category": "R&B"
+    },
+    {
+      "award": "MTV Best Pop",
+      "winner": "Olivia Rodrigo – good 4 u",
+      "category": "Pop"
+    }
+  ],
+
+  "2021": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Taylor Swift – Folklore",
+      "category": "Indie Pop"
+    },
+    {
+      "award": "Grammy Song of the Year",
+      "winner": "H.E.R. – I Can't Breathe",
+      "category": "R&B"
+    },
+    {
+      "award": "Billboard Top Artist",
+      "winner": "Drake",
+      "category": "Hip-Hop"
+    }
+  ],
+
+  "2020": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Billie Eilish – When We All Fall Asleep, Where Do We Go?",
+      "category": "Alternative"
+    },
+    {
+      "award": "Grammy Record of the Year",
+      "winner": "Billie Eilish – Bad Guy",
+      "category": "Pop"
+    },
+    {
+      "award": "MTV Best K-Pop",
+      "winner": "BTS – Boy With Luv",
+      "category": "K-Pop"
+    }
+  ],
+
+  "2019": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Kacey Musgraves – Golden Hour",
+      "category": "Country"
+    },
+    {
+      "award": "Grammy Best Pop Solo Performance",
+      "winner": "Lady Gaga – Joanne",
+      "category": "Pop"
+    },
+    {
+      "award": "Billboard Top Artist",
+      "winner": "Ariana Grande",
+      "category": "Pop"
+    }
+  ],
+
+  "2018": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Bruno Mars – 24K Magic",
+      "category": "Funk"
+    },
+    {
+      "award": "Grammy Record of the Year",
+      "winner": "Bruno Mars – 24K Magic",
+      "category": "Funk"
+    },
+    {
+      "award": "MTV Artist of the Year",
+      "winner": "Camila Cabello",
+      "category": "Pop"
+    }
+  ],
+
+  "2017": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Adele – 25",
+      "category": "Pop"
+    },
+    {
+      "award": "Grammy Record of the Year",
+      "winner": "Adele – Hello",
+      "category": "Pop"
+    },
+    {
+      "award": "Billboard Top Artist",
+      "winner": "Ed Sheeran",
+      "category": "Pop"
+    }
+  ],
+
+  "2016": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Taylor Swift – 1989",
+      "category": "Pop"
+    },
+    {
+      "award": "Grammy Record of the Year",
+      "winner": "Mark Ronson ft. Bruno Mars – Uptown Funk",
+      "category": "Funk"
+    },
+    {
+      "award": "Billboard Top Artist",
+      "winner": "Adele",
+      "category": "Pop"
+    }
+  ],
+
+  "2015": [
+    {
+      "award": "Grammy Album of the Year",
+      "winner": "Beck – Morning Phase",
+      "category": "Alternative"
+    },
+    {
+      "award": "Grammy Record of the Year",
+      "winner": "Sam Smith – Stay With Me",
+      "category": "Soul"
+    },
+    {
+      "award": "Billboard Top Artist",
+      "winner": "Taylor Swift",
+      "category": "Pop"
+    }
+  ]
+}
+
+

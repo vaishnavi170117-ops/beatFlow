@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Violin",
+    "description": "The violin produces beautiful melodies...",
+    "image": "violin.png",
+    "audio": "violin.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Piano",
+    "description": "The piano offers unmatched versatility...",
+    "image": "piano.png",
+    "audio": "piano.mp3"
+  },
+  {
+    "id": 3,
+    "name": "Guitar",
+    "description": "The guitar's six strings define modern music...",
+    "image": "guitar.jpg",
+    "audio": "guitar.mp3"
+  },
+  {
+    "id": 4,
+    "name": "Drums",
+    "description": "Drums provide rhythm and energy...",
+    "image": "drums.jpeg",
+    "audio": "drum.mp3"
+  },
+  {
+  "id": 5,
+  "name": "Flute",
+  "description": "The flute produces soft, soothing tones used in classical and folk music.",
+  "image": "flute.jpeg",
+  "audio": "flute.mp3"
+},
+{
+  "id": 6,
+  "name": "Saxophone",
+  "description": "The saxophone is known for its expressive, rich sound in jazz and blues.",
+  "image": "saxophone.jpeg",
+  "audio": "saxophone.mp3"
+},
+{
+  "id": 7,
+  "name": "Trumpet",
+  "description": "The trumpet delivers bright, powerful melodies used in orchestras and jazz bands.",
+  "image": "trumpet.jpeg",
+  "audio": "trumpet.mp3"
+},
+{
+  "id": 8,
+  "name": "Harp",
+  "description": "The harp creates angelic, magical sounds with its plucked strings.",
+  "image": "harp.jpeg",
+  "audio": "harp.mp3"
+},
+{
+  "id": 9,
+  "name": "Tabla",
+  "description": "The tabla is a classical Indian percussion instrument known for complex rhythms.",
+  "image": "tabla.jpeg",
+  "audio": "tabla.mp3"
+},
+{
+  "id": 10,
+  "name": "Sitar",
+  "description": "The sitar creates rich, resonating sounds widely used in Indian classical music.",
+  "image": "sitar.jpeg",
+  "audio": "sitar.mp3"
+},
+{
+  "id": 11,
+  "name": "Cello",
+  "description": "The cello produces deep, warm tones and is essential in modern orchestras.",
+  "image": "cello.jpeg",
+  "audio": "cello.mp3"
+},
+{
+  "id": 12,
+  "name": "Clarinet",
+  "description": "The clarinet offers a smooth, mellow sound used in jazz, orchestral, and folk music.",
+  "image": "clarinet.jpeg",
+  "audio": "clarinet.mp3"
+},
+{
+  "id": 13,
+  "name": "Xylophone",
+  "description": "The xylophone has bright, percussive tones created by striking wooden bars.",
+  "image": "xylophone.jpeg",
+  "audio": "xylophone.mp3"
+},
+{
+  "id": 14,
+  "name": "Accordion",
+  "description": "The accordion produces unique, rich tones often heard in folk and world music.",
+  "image": "accordion.jpeg",
+  "audio": "accordion.mp3"
+}
+]

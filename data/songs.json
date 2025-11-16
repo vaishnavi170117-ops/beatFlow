@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Despacito",
+    "artist": "Luis Fonsi",
+    "image": "song1.jpeg",
+    "audioUrl": "song1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Pranavalaya",
+    "artist": "Sooryagayathri",
+    "image": "song2.jpeg",
+    "audioUrl": "song2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Cheap Thrills",
+    "artist": "Sia",
+    "image": "song3.jpeg",
+    "audioUrl": "song3.mp3"
+  }
+]
